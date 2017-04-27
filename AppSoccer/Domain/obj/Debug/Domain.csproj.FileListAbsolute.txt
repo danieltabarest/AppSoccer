@@ -1,0 +1,39 @@
+D:\Users\Basilio\Source\Repos\SoccerBack\Domain\bin\Debug\Domain.dll.config
+D:\Users\Basilio\Source\Repos\SoccerBack\Domain\bin\Debug\Domain.dll
+D:\Users\Basilio\Source\Repos\SoccerBack\Domain\bin\Debug\Domain.pdb
+D:\Users\Basilio\Source\Repos\SoccerBack\Domain\bin\Debug\EntityFramework.dll
+D:\Users\Basilio\Source\Repos\SoccerBack\Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\Basilio\Source\Repos\SoccerBack\Domain\bin\Debug\EntityFramework.xml
+D:\Users\Basilio\Source\Repos\SoccerBack\Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\Basilio\Source\Repos\SoccerBack\Domain\obj\Debug\Domain.dll
+D:\Users\Basilio\Source\Repos\SoccerBack\Domain\obj\Debug\Domain.pdb
+D:\Users\Basilio\Source\Repos\SoccerBack\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\SoccerBack\Domain\bin\Debug\Domain.dll.config
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\SoccerBack\Domain\bin\Debug\Domain.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\SoccerBack\Domain\bin\Debug\Domain.pdb
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\SoccerBack\Domain\bin\Debug\EntityFramework.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\SoccerBack\Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\SoccerBack\Domain\bin\Debug\EntityFramework.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\SoccerBack\Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\SoccerBack\Domain\obj\Debug\Domain.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\SoccerBack\Domain\obj\Debug\Domain.pdb
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Domain\bin\Debug\Domain.dll.config
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Domain\bin\Debug\Domain.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Domain\bin\Debug\Domain.pdb
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Domain\bin\Debug\EntityFramework.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Domain\bin\Debug\EntityFramework.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Domain\obj\Debug\Domain.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Domain\obj\Debug\Domain.pdb
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Domain\bin\Debug\Domain.dll.config
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Domain\bin\Debug\Domain.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Domain\bin\Debug\Domain.pdb
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Domain\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Domain\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Domain\obj\Debug\Domain.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Domain\obj\Debug\Domain.pdb
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache

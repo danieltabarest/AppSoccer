@@ -1,0 +1,10 @@
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Domain\bin\Release\Domain.dll.config
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Domain\bin\Release\Domain.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Domain\bin\Release\Domain.pdb
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Domain\bin\Release\EntityFramework.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Domain\bin\Release\EntityFramework.SqlServer.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Domain\bin\Release\EntityFramework.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Domain\bin\Release\EntityFramework.SqlServer.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Domain\obj\Release\Domain.csprojResolveAssemblyReference.cache
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Domain\obj\Release\Domain.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Domain\obj\Release\Domain.pdb

@@ -1,0 +1,166 @@
+=============Error Logging ===========
+===========Start============= 18/04/2017 11:10:38
+Error Message: Acceso denegado a la ruta de acceso 'C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\Content\Logos\4274591.jpg'.
+Stack Trace:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   en System.IO.FileStream..ctor(String path, FileMode mode)
+   en System.Web.HttpPostedFile.SaveAs(String filename)
+   en Backend.Helpers.FilesHelper.UploadPhoto(HttpPostedFileBase file, String folder) en C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\Helpers\FilesHelper.cs:línea 18
+   en Backend.Controllers.UsersController.<Create>d__5.MoveNext() en C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\Controllers\UsersController.cs:línea 85
+===========End============= 18/04/2017 11:10:44
+=============Error Logging ===========
+===========Start============= 18/04/2017 11:12:17
+Error Message: Acceso denegado a la ruta de acceso 'C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\Content\Logos\dfg.jpg'.
+Stack Trace:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   en System.IO.FileStream..ctor(String path, FileMode mode)
+   en System.Web.HttpPostedFile.SaveAs(String filename)
+   en Backend.Helpers.FilesHelper.UploadPhoto(HttpPostedFileBase file, String folder) en C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\Helpers\FilesHelper.cs:línea 18
+   en Backend.Controllers.UsersController.<Create>d__5.MoveNext() en C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\Controllers\UsersController.cs:línea 85
+===========End============= 18/04/2017 11:12:17
+=============Error Logging ===========
+===========Start============= 18/04/2017 11:12:58
+Error Message: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+Stack Trace:    en System.Data.Entity.Internal.InternalContext.SaveChangesAsync(CancellationToken cancellationToken)
+   en System.Data.Entity.Internal.LazyInternalContext.SaveChangesAsync(CancellationToken cancellationToken)
+   en System.Data.Entity.DbContext.SaveChangesAsync(CancellationToken cancellationToken)
+   en System.Data.Entity.DbContext.SaveChangesAsync()
+   en Backend.Controllers.UsersController.<Create>d__5.MoveNext() en C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\Controllers\UsersController.cs:línea 92
+===========End============= 18/04/2017 11:12:58
+=============Error Logging ===========
+===========Start============= 18/04/2017 11:14:06
+Error Message: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+Stack Trace:    en System.Data.Entity.Internal.InternalContext.SaveChangesAsync(CancellationToken cancellationToken)
+   en System.Data.Entity.Internal.LazyInternalContext.SaveChangesAsync(CancellationToken cancellationToken)
+   en System.Data.Entity.DbContext.SaveChangesAsync(CancellationToken cancellationToken)
+   en System.Data.Entity.DbContext.SaveChangesAsync()
+   en Backend.Controllers.UsersController.<Create>d__5.MoveNext() en C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\Controllers\UsersController.cs:línea 92
+===========End============= 18/04/2017 11:14:06
+=============Error Logging ===========
+===========Start============= 18/04/2017 11:19:31
+Error Message: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+Stack Trace:    en System.Data.Entity.Internal.InternalContext.SaveChangesAsync(CancellationToken cancellationToken)
+   en System.Data.Entity.Internal.LazyInternalContext.SaveChangesAsync(CancellationToken cancellationToken)
+   en System.Data.Entity.DbContext.SaveChangesAsync(CancellationToken cancellationToken)
+   en System.Data.Entity.DbContext.SaveChangesAsync()
+   en Backend.Controllers.UsersController.<Create>d__5.MoveNext() en C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\Controllers\UsersController.cs:línea 92
+===========End============= 18/04/2017 11:19:31
+=============Error Logging ===========
+===========Start============= 18/04/2017 11:24:12
+Error Message: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+Stack Trace:    en System.Data.Entity.Internal.InternalContext.SaveChangesAsync(CancellationToken cancellationToken)
+   en System.Data.Entity.Internal.LazyInternalContext.SaveChangesAsync(CancellationToken cancellationToken)
+   en System.Data.Entity.DbContext.SaveChangesAsync(CancellationToken cancellationToken)
+   en System.Data.Entity.DbContext.SaveChangesAsync()
+   en Backend.Controllers.UsersController.<Create>d__5.MoveNext() en C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\Controllers\UsersController.cs:línea 92
+===========End============= 18/04/2017 11:24:12
+=============Error Logging ===========
+===========Start============= 18/04/2017 12:19:03
+Error Message: An error occurred while updating the entries. See the inner exception for details.
+Stack Trace:    en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Backend.Controllers.TournamentsController.<CreateTeam>d__28.MoveNext() en C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\Controllers\TournamentsController.cs:línea 559
+===========End============= 18/04/2017 12:19:03
+=============Error Logging ===========
+===========Start============= 18/04/2017 12:19:38
+Error Message: An error occurred while updating the entries. See the inner exception for details.
+Stack Trace:    en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Backend.Controllers.TournamentsController.<CreateTeam>d__28.MoveNext() en C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\Controllers\TournamentsController.cs:línea 559
+===========End============= 18/04/2017 12:19:38
+=============Error Logging ===========
+===========Start============= 18/04/2017 12:20:46
+Error Message: No se puede reconocer la cadena como valor DateTime válido.
+Stack Trace:    en System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   en System.Convert.ToDateTime(String value)
+   en Backend.Controllers.TournamentsController.<CreateMatch>d__3.MoveNext() en C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\Controllers\TournamentsController.cs:línea 61
+===========End============= 18/04/2017 12:20:46
+=============Error Logging ===========
+===========Start============= 18/04/2017 12:21:03
+Error Message: No se puede reconocer la cadena como valor DateTime válido.
+Stack Trace:    en System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   en System.Convert.ToDateTime(String value)
+   en Backend.Controllers.TournamentsController.<CreateMatch>d__3.MoveNext() en C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\Controllers\TournamentsController.cs:línea 61
+===========End============= 18/04/2017 12:21:03
+=============Error Logging ===========
+===========Start============= 18/04/2017 12:21:22
+Error Message: No se puede reconocer la cadena como valor DateTime válido.
+Stack Trace:    en System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   en System.Convert.ToDateTime(String value)
+   en Backend.Controllers.TournamentsController.<CreateMatch>d__3.MoveNext() en C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\Controllers\TournamentsController.cs:línea 61
+===========End============= 18/04/2017 12:21:22
+=============Error Logging ===========
+===========Start============= 18/04/2017 12:21:50
+Error Message: No se puede reconocer la cadena como valor DateTime válido.
+Stack Trace:    en System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   en System.Convert.ToDateTime(String value)
+   en Backend.Controllers.TournamentsController.<CreateMatch>d__3.MoveNext() en C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\Controllers\TournamentsController.cs:línea 61
+===========End============= 18/04/2017 12:21:50
+=============Error Logging ===========
+===========Start============= 18/04/2017 12:22:42
+Error Message: No se puede reconocer la cadena como valor DateTime válido.
+Stack Trace:    en System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   en System.Convert.ToDateTime(String value)
+   en Backend.Controllers.TournamentsController.<CreateMatch>d__3.MoveNext() en C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\Controllers\TournamentsController.cs:línea 61
+===========End============= 18/04/2017 12:22:42
+=============Error Logging ===========
+===========Start============= 18/04/2017 12:22:55
+Error Message: No se puede reconocer la cadena como valor DateTime válido.
+Stack Trace:    en System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   en System.Convert.ToDateTime(String value)
+   en Backend.Controllers.TournamentsController.<CreateMatch>d__3.MoveNext() en C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\Controllers\TournamentsController.cs:línea 61
+===========End============= 18/04/2017 12:22:55
+=============Error Logging ===========
+===========Start============= 18/04/2017 12:23:50
+Error Message: No se puede reconocer la cadena como valor DateTime válido.
+Stack Trace:    en System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   en System.Convert.ToDateTime(String value)
+   en Backend.Controllers.TournamentsController.<CreateMatch>d__3.MoveNext() en C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\Controllers\TournamentsController.cs:línea 61
+===========End============= 18/04/2017 12:23:50
+=============Error Logging ===========
+===========Start============= 18/04/2017 12:24:17
+Error Message: No se puede reconocer la cadena como valor DateTime válido.
+Stack Trace:    en System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   en System.Convert.ToDateTime(String value)
+   en Backend.Controllers.TournamentsController.<CreateMatch>d__3.MoveNext() en C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\Controllers\TournamentsController.cs:línea 61
+===========End============= 18/04/2017 12:24:17
+=============Error Logging ===========
+===========Start============= 18/04/2017 12:25:45
+Error Message: No se puede reconocer la cadena como valor DateTime válido.
+Stack Trace:    en System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   en System.Convert.ToDateTime(String value)
+   en Backend.Controllers.TournamentsController.<CreateMatch>d__3.MoveNext() en C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\Controllers\TournamentsController.cs:línea 61
+===========End============= 18/04/2017 12:25:45
+=============Error Logging ===========
+===========Start============= 18/04/2017 12:33:59
+Error Message: No se puede reconocer la cadena como valor DateTime válido.
+Stack Trace:    en System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   en System.Convert.ToDateTime(String value)
+   en Backend.Controllers.TournamentsController.<CreateMatch>d__3.MoveNext() en C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\Controllers\TournamentsController.cs:línea 67
+===========End============= 18/04/2017 12:33:59
+=============Error Logging ===========
+===========Start============= 18/04/2017 12:34:10
+Error Message: No se puede reconocer la cadena como valor DateTime válido.
+Stack Trace:    en System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   en System.Convert.ToDateTime(String value)
+   en Backend.Controllers.TournamentsController.<CreateMatch>d__3.MoveNext() en C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\Controllers\TournamentsController.cs:línea 67
+===========End============= 18/04/2017 12:34:10
+=============Error Logging ===========
+===========Start============= 18/04/2017 12:34:38
+Error Message: An error occurred while updating the entries. See the inner exception for details.
+Stack Trace:    en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Backend.Controllers.TournamentsController.<DeleteDate>d__6.MoveNext() en C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\Controllers\TournamentsController.cs:línea 129
+===========End============= 18/04/2017 12:34:38
+=============Error Logging ===========
+===========Start============= 18/04/2017 12:49:40
+Error Message: No se puede reconocer la cadena como valor DateTime válido.
+Stack Trace:    en System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   en System.Convert.ToDateTime(String value)
+   en Backend.Controllers.TournamentsController.<CreateMatch>d__6.MoveNext() en C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\Controllers\TournamentsController.cs:línea 140
+===========End============= 18/04/2017 12:49:40

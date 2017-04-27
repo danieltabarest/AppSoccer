@@ -1,0 +1,168 @@
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\ApplicationInsights.config
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\roslyn\csc.exe
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\roslyn\System.Collections.Immutable.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\roslyn\System.Reflection.Metadata.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\roslyn\vbc.exe
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\roslyn\VBCSCompiler.exe
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\roslyn\VBCSCompiler.exe.config
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Backend.dll.config
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Backend.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Backend.pdb
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Antlr3.Runtime.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Domain.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\EntityFramework.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\EntityFramework.SqlServer.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.AI.DependencyCollector.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.AI.Web.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.AI.WindowsServer.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.ApplicationInsights.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.Owin.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.Owin.Security.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.Owin.Security.Google.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.Web.Infrastructure.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Newtonsoft.Json.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Owin.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\System.Web.Helpers.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\System.Web.Mvc.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\System.Web.Optimization.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\System.Web.Razor.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\System.Web.WebPages.Deployment.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\System.Web.WebPages.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\System.Web.WebPages.Razor.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\WebGrease.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Domain.pdb
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.AI.DependencyCollector.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.AI.Web.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.AI.WindowsServer.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.ApplicationInsights.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\System.Web.Helpers.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\System.Web.Mvc.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\System.Web.Optimization.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\System.Web.Razor.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\System.Web.WebPages.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\System.Web.WebPages.Deployment.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\System.Web.WebPages.Razor.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Antlr3.Runtime.pdb
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Newtonsoft.Json.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\EntityFramework.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\EntityFramework.SqlServer.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.Owin.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.Owin.Security.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.Owin.Security.Google.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\obj\Release\Backend.csprojResolveAssemblyReference.cache
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\obj\Release\Backend.dll
+E:\Daniel\Programación Distribuidas\App2\SoccerBack\Backend\obj\Release\Backend.pdb
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\ApplicationInsights.config
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\roslyn\csc.exe
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\roslyn\vbc.exe
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Backend.dll.config
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Backend.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Backend.pdb
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Domain.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\EntityFramework.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.Owin.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Owin.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\System.Web.Helpers.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\System.Web.Mvc.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\System.Web.Optimization.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\System.Web.Razor.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\System.Web.WebPages.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\WebGrease.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Domain.pdb
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\System.Web.Helpers.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\System.Web.Mvc.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\System.Web.Optimization.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\System.Web.Razor.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\System.Web.WebPages.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\EntityFramework.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.Owin.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\obj\Release\Backend.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\obj\Release\Backend.dll
+C:\Users\Admin\Source\Repos\SoccerBackITM\SoccerBack\Backend\obj\Release\Backend.pdb

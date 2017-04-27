@@ -1,0 +1,98 @@
+﻿@model Domain.TournamentTeam
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>TournamentTeam</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Team.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Team.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TournamentGroup.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TournamentGroup.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MatchesPlayed)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MatchesPlayed)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MatchesWon)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MatchesWon)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MatchesLost)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MatchesLost)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MatchesTied)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MatchesTied)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FavorGoals)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FavorGoals)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AgainstGoals)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AgainstGoals)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Points)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Points)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Position)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Position)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.TournamentTeamId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,87 @@
+﻿@model IEnumerable<Domain.TournamentTeam>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Team.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TournamentGroup.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MatchesPlayed)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MatchesWon)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MatchesLost)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MatchesTied)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FavorGoals)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AgainstGoals)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Points)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Position)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Team.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TournamentGroup.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MatchesPlayed)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MatchesWon)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MatchesLost)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MatchesTied)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FavorGoals)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AgainstGoals)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Points)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Position)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.TournamentTeamId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.TournamentTeamId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.TournamentTeamId })
+        </td>
+    </tr>
+}
+
+</table>
